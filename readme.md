@@ -42,12 +42,11 @@
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+ - 📈 Profile Statistics:
+
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=e0574f&style=for-the-badge)
+
 </p>
-
-<br>
-
-- 📈 Profile Statistics:
-![](https://komarev.com/ghpvc/?username=your-github-username&color=e0574f&style=for-the-badge)
 
 <br>
 
