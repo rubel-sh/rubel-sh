@@ -46,6 +46,11 @@
 
 <br>
 
+- 📈 Profile Statistics:
+![](https://komarev.com/ghpvc/?username=your-github-username&color=e0574f&style=for-the-badge)
+
+<br>
+
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
