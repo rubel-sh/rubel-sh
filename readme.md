@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rubel Hossain <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate MERN Stack  developer from Bangladesh</h3>
 
-## <div style="display: flex; align-items: center; gap: 5px; justify-content: center;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="GIF" width="25">
-  <b>Skills</b>
-</div>
+## <div style="display: flex; align-items: center; gap: 5px; justify-content: center;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="GIF" width="25"><b>Skills</b></div>
 
 
 <p align="center">
