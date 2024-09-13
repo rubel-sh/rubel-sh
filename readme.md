@@ -47,7 +47,7 @@
   
 - 📈 Profile Statistics:
 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=e0574f&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=rubel-sh&color=e0574f&style=for-the-badge)
   
 </p>
 
