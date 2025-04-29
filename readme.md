@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/4f8f6635-e24d-4658-ace2-89933ec514c9.svg)](https://wakatime.com/@4f8f6635-e24d-4658-ace2-89933ec514c9)
-[![wakatime](https://wakatime.com/share/@rubel_sh/2a09b16d-f0ce-463f-8544-4902924d042e.svg)](https://wakatime.com/@4f8f6635-e24d-4658-ace2-89933ec514c9)
+
 
 
 <h1 align="center">Hi 👋, I'm Rubel Hossain <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
@@ -66,3 +66,4 @@
 	<a href="https://wa.me/8801980728221"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Youtube"/></a>
 </p>
 <hr/>
+[![wakatime](https://wakatime.com/share/@rubel_sh/2a09b16d-f0ce-463f-8544-4902924d042e.svg)](https://wakatime.com/@4f8f6635-e24d-4658-ace2-89933ec514c9)
